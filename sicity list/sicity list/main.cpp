@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
     list.insert(3,1);
     list.insert(4,1);
     list.insert(5,1);
+    list.insert(1,1);
     list.remove(2);
     list.print();
     cout << "sabsckj";
